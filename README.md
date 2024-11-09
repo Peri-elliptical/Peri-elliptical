@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peri-elliptical
 - 👀 I’m interested in Mathematics and Machine Learning.
-- 🌱 I’m currently learning about Polynomials.
-- 💞️ I’m looking to collaborate on finding all the real roots of a polynomial.
+- 🌱 I’m currently learning about Git.
+- 💞️ I’m looking to collaborate on creating a neural network that is flawless at playing Tic Tac Toe.
 - 📫 How to reach me: len3rvz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 18 teeth in my lower jaw.
