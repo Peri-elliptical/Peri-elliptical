@@ -2,6 +2,6 @@
 - 👀 I’m interested in Mathematics and Machine Learning.
 - 🌱 I’m currently learning about Git.
 - 💞️ I’m looking to collaborate on creating a neural network that is flawless at playing Tic Tac Toe.
-- 📫 How to reach me: len3rvz@gmail.com
+- 📫 How to reach me: len3rvz@gmail.com, +91 80781 84923
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 18 teeth in my lower jaw.
